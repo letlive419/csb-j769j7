@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "https://letlive419.github.io/csb-j769j7/static/js/main.435d47ed.chunk.js",
+    "main.js.map": "https://letlive419.github.io/csb-j769j7/static/js/main.435d47ed.chunk.js.map",
+    "runtime-main.js": "https://letlive419.github.io/csb-j769j7/static/js/runtime-main.512cab61.js",
+    "runtime-main.js.map": "https://letlive419.github.io/csb-j769j7/static/js/runtime-main.512cab61.js.map",
+    "index.html": "https://letlive419.github.io/csb-j769j7/index.html",
+    "precache-manifest.2835d97f42d709ef11d5fdd1cd27d00a.js": "https://letlive419.github.io/csb-j769j7/precache-manifest.2835d97f42d709ef11d5fdd1cd27d00a.js",
+    "service-worker.js": "https://letlive419.github.io/csb-j769j7/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.512cab61.js",
+    "static/js/main.435d47ed.chunk.js"
+  ]
+}
